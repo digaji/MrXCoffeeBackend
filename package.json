@@ -1,0 +1,24 @@
+{
+  "name": "mrxcoffeebackend",
+  "version": "1.0.0",
+  "description": "Whyyyy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digaji/MrXCoffeeBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digaji/MrXCoffeeBackend/issues"
+  },
+  "homepage": "https://github.com/digaji/MrXCoffeeBackend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "joi": "^17.6.0"
+  }
+}
